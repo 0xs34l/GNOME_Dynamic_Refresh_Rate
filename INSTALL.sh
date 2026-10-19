@@ -1,1 +1,1 @@
-#!
+#Install script for DRR daemon
